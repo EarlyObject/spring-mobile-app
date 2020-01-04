@@ -1,4 +1,4 @@
-package com.ardaks.app.ws;
+package com.ardaks.app.ws.io.repositories;
 
 import com.ardaks.app.ws.io.entity.UserEntity;
 import org.springframework.data.repository.CrudRepository;
